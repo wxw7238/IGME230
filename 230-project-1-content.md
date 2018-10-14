@@ -39,7 +39,5 @@ Game goes here
 *The game hasnt been made yet*
 
 ## Image sources:
-[Pac-man map]
-(https://phaser.io/tutorials/coding-tips-005)
-[Top-down screenshot]
-(http://gamemakerblog.com/2011/03/08/an-exploration-of-game-maker-zombie-top-down-shooter-games/)
+[Pac-man map](https://phaser.io/tutorials/coding-tips-005)
+[Top-down screenshot](http://gamemakerblog.com/2011/03/08/an-exploration-of-game-maker-zombie-top-down-shooter-games/)
